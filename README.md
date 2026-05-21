@@ -55,3 +55,14 @@
 - **参赛编号**：TJJM20260416350473
 - **团队**：郭正阳、舒艺林、李垚 | 指导教师：郝孟丽
 - **产出**：51 页完整论文
+
+## 相关项目
+
+| 项目 | 描述 |
+|------|------|
+| [PCCP](https://github.com/LY-muyanshiqi/PCCP) | Inception-ResNet-LSTM · R²=0.986 |
+| [坝道微医](https://github.com/LY-muyanshiqi/badao-weiyi) | 水利部认定 · 92%诊断精度 |
+| [华中杯-VRP](https://github.com/LY-muyanshiqi/huazhong-cup-vrp) | Hybrid-ILS · 278页论文 |
+| [蓄能智调](https://github.com/LY-muyanshiqi/pumped-storage-carbon) | LSTM来水预测 · 碳减排优化 |
+| [智慧水利](https://github.com/LY-muyanshiqi/smart-water-demo) | LSTM洪水预测 · Flask+Streamlit |
+| [个人主页](https://github.com/LY-muyanshiqi/LY-muyanshiqi) | GitHub Profile · 项目总览 |
