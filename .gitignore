@@ -13,19 +13,14 @@ __pycache__/
 # 获奖信息不推
 获奖信息/
 
-# 提交材料不推
+# 提交材料不推（本地归档）
 郝孟丽-郭正阳/
 郝孟丽-郭正阳.zip
 
 # IDE/配置
 .claude/
 
-# 中间数据不推
-data/*.npy
-data/*.npz
-data/Henan_Corn_HighPrecision_2002_2024_filled.csv
-
-# output 只保留图表，不推模型和npz
+# output 不推模型和中间数据，只保留图表
 output/*.pth
 output/*.json
 output/*.npz
