@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.DS_Store
+*.zip
+*.tar.gz
+*.rar
+
+# 模型权重文件太大
+*.pth
+
+# 获奖信息不推
+获奖信息/
+
+# 提交材料不推
+郝孟丽-郭正阳/
+郝孟丽-郭正阳.zip
+
+# IDE/配置
+.claude/
+
+# 中间数据不推
+data/*.npy
+data/*.npz
+data/Henan_Corn_HighPrecision_2002_2024_filled.csv
+
+# output 只保留图表，不推模型和npz
+output/*.pth
+output/*.json
+output/*.npz
